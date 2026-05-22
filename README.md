@@ -1,5 +1,7 @@
 # Practical Exercise for Trainees (React Real-World Edition)
 
+Hello this is shiva ✌🏻
+
 You are given a deliberately **badly written React e-commerce admin module** that simulates real-world behavior:
 - order creation
 - pricing/discount logic
